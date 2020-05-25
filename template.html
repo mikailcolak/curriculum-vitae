@@ -21,7 +21,7 @@
         body {
             margin: 0;
             font-family: sans-serif;
-            font-size: 10pt;
+            font-size: 11pt;
         }
 
         #container {
@@ -40,6 +40,23 @@
             margin-bottom: 0;
         }
 
+        a {
+            color: #29315a;
+            text-decoration: underline dotted;
+        }
+
+        a:hover {
+            color: #29315a;
+            text-decoration: underline;
+        }
+
+        hr {
+            height: 0;
+            border: none;
+            border-bottom: 1px dotted #29315a;
+            box-shadow: 0 1pt 5pt rgba(0, 0, 0, 0.4);
+        }
+
         h2,
         h3 {
             display: flex;
@@ -51,14 +68,14 @@
         h2,
         h3,
         p {
-            margin: 12pt 12pt 0mm 12pt;
+            margin: 12pt 12pt 6pt 12pt;
             font-weight: normal;
         }
 
         h1+p,
         h2+p,
         h3+p {
-            margin-top: 0mm;
+            margin-top: 6pt;
         }
 
         h2 strong,
@@ -77,7 +94,7 @@
             padding: .1rem;
             padding-left: .5rem;
             border-radius: 0 .250rem .250rem 0;
-            color: #222;
+            color: #29315a;
             font-weight: bold;
             text-decoration: none;
             background: #f1f1f1;
@@ -114,8 +131,8 @@
     $math$
     $endif$
     <!--[if lt IE 9]>
-<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-<![endif]-->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
     $for(header-includes)$
     $header-includes$
     $endfor$
