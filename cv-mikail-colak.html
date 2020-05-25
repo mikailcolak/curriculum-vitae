@@ -15,7 +15,8 @@
             font-family: sans-serif;
             font-size: 10pt;
         }
-        #container{
+
+        #container {
             width: 210mm;
             height: 297mm;
             margin: 0 auto;
@@ -23,43 +24,71 @@
             box-shadow: 0 3em 3em rgba(0, 0, 0, 0.1);
         }
 
-        body :first-child {
+        #container> :first-child {
             margin-top: 0;
         }
 
-        body :last-child {
+        #container> :last-child {
             margin-bottom: 0;
         }
-        h2,h3,h4,h5,h6 {
-            background: #f7f7f7;
+
+        h2,
+        h3 {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
         }
 
-        h1,h2,h3,h4,h5,h6,
+        h1,
+        h2,
+        h3,
         p {
             margin: 12pt 12pt 0mm 12pt;
-            padding: .3rem;
+            font-weight: normal;
         }
 
-        h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+        h1+p,
+        h2+p,
+        h3+p {
             margin-top: 0mm;
         }
 
-        h1:after, h2:after, h3:after, h4:after, h5:after, h6:after {
-            content: '';
-            height: 1px;
-            margin-top: -1px;
-            clear: both;
+        h2 strong,
+        h3 strong {
+            padding: .1rem;
+            padding-right: .5rem;
+            background-color: #e6e6e6;
+            display: inline-block;
+            position: relative;
+            z-index: 1;
+            border-radius: .250rem 0 0 .250rem;
         }
 
-        h1 em, h2 em, h3 em, h4 em, h5 em, h6 em {
+        h2 a,
+        h3 a {
+            padding: .1rem;
+            padding-left: .5rem;
+            border-radius: 0 .250rem .250rem 0;
+            color: #222;
+            font-weight: bold;
+            text-decoration: none;
+            background: #f1f1f1;
+            display: inline-block;
+            position: relative;
+        }
+
+        h2 em,
+        h3 em {
+            margin-left: 1rem;
             font-weight: normal;
-            font-style: normal;
-            float: right;
+            font-size: .9rem;
+            flex: auto;
         }
 
         code {
-            color: brown;
+            color: #232399;
             font-weight: 600;
+            font-family: sans-serif;
         }
 
         @media print {
@@ -78,14 +107,14 @@
 <body>
     <div id="container">
                 <h1 id="mikail-colak">Mikail COLAK</h1>
-                <p>Istanbul, TR / +90 (532) 426 02 89 / mikailcolak@gmail.com</p>
-                <h3 id="software-engineer---lidyum-information-technologies.-istanbul-2018-06-present">Software Engineer - Lidyum Information Technologies. <em>Istanbul, 2018-06 – Present</em></h3>
-                <p>Implemented variety of network management system modules. Developed for main contractor <code>NEC Japan</code> and the softwares using by many Telecom companies around the world. (C#, SNMP, Java, HTML5/JS, NodeJS, React, WPF, .NET Core, PostgreSql, git, Jira, Jenkins)</p>
-                <h3 id="software-developer---mkm-information-technologies.-istanbul-2017-02-2018-05">Software Developer - MKM Information Technologies. <em>Istanbul, 2017-02 – 2018-05</em></h3>
-                <p>Implemented variety of network management system modules. Developed for main contractor <code>NEC Japan</code> and the softwares using by many Telecom companies around the world. (C#, C/C++, SNMP, Java, HTML5/JS, NodeJS, React, WPF, MsSQL, MongoDB, .NET Framework, TFS, git, Jira)</p>
-                <h3 id="web-developer---havas-istanbul-project-house.-istanbul-2015-12-2017-02">Web Developer - HAVAS Istanbul (Project House). <em>Istanbul, 2015-12 – 2017-02</em></h3>
+                <p>Istanbul, TR / +90 (532) 426 02 89 / <a href="mailto:mikailcolak@gmail.com">mikailcolak@gmail.com</a></p>
+                <h3 id="software-developer-lidyum-information-technologies-istanbul-2018-06-present"><strong>Software Developer</strong> <a href="http://lidyum.com.tr" title="Lidyum">Lidyum Information Technologies</a> <em>Istanbul, 2018-06 – Present</em></h3>
+                <p>Implemented variety of network management system modules. Developed for main contractor <a href="https://www.nec.com/en/global/prod/nw/pasolink/products/unms.html" title="UNMS">NEC</a> and the softwares using by many Telecom companies around the world. (C#, SNMP, Java, HTML5/JS, NodeJS, React, WPF, .NET Core, PostgreSql, git, Jira, Jenkins)</p>
+                <h3 id="software-developer-mkm-information-technologies-istanbul-2017-02-2018-05"><strong>Software Developer</strong> <a href="http://mkm.com.tr/Home" title="MKM">MKM Information Technologies</a> <em>Istanbul, 2017-02 – 2018-05</em></h3>
+                <p>Implemented variety of network management system modules. Developed for main contractor <a href="https://www.nec.com/en/global/prod/nw/pasolink/products/unms.html" title="UNMS">NEC</a> and the softwares using by many Telecom companies around the world. (C#, C/C++, SNMP, Java, HTML5/JS, NodeJS, React, WPF, MsSQL, MongoDB, .NET Framework, TFS, git, Jira)</p>
+                <h3 id="web-developer-havas-project-house-istanbul-2015-12-2017-02"><strong>Web Developer</strong> <a href="https://ph.com.tr" title="HAVAS (Project House)">HAVAS (Project House)</a> <em>Istanbul, 2015-12 – 2017-02</em></h3>
                 <p>Developed 10+ web projects 3+ full-stack nodejs project 2 php based project. (Sharepoint, C#, PHP, NodeJS, HTML5/JS, sass, less, pug, grunt, gulp)</p>
-                <h3 id="internship-game-developer---infosfer">Internship Game Developer - Infosfer</h3>
+                <h3 id="internship-game-developer-infosfer-istanbul-2013-12-2014-06"><strong>Internship Game Developer</strong> <a href="https://tr.linkedin.com/company/infosfer-oyun-teknolojileri-ltd-" title="Infosfer">Infosfer</a> <em>Istanbul, 2013-12 – 2014-06</em></h3>
                 <p>Learned and contributed game development with Cocos2d-X/C++ and deploy mobile games to Android and IOS. Successfully completed development challenges. (C++, Cocos2d-X, ActionScript3, Starling)</p>
             </div>
 </body>
