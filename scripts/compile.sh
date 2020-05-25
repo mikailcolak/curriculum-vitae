@@ -1,3 +1,4 @@
+#!/bin/bash
 chromePath() {
     local rv=$1
     if hash google-chrome 2>/dev/null; then
