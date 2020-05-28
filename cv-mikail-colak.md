@@ -15,7 +15,7 @@ Implemented variety of network management system modules. Developed for main con
 ### **Software Developer** [MKM Information Technologies](http://mkm.com.tr/Home "MKM") *Istanbul, 2017-02 -- 2018-05*
 Implemented variety of network management system modules. Developed for main contractor [NEC](https://www.nec.com/en/global/prod/nw/pasolink/products/unms.html "UNMS") and the softwares using by many Telecom companies around the world. (C#, C/C++, SNMP, Java, HTML5/JS, NodeJS, React, WPF, MsSQL, MongoDB, .NET Framework, TFS, git, Jira)
 
-### **Web Developer** [HAVAS (Project House)](https://ph.com.tr "HAVAS (Project House)") *Istanbul, 2015-12 -- 2017-02*
+### **Web Developer** [HAVAS (Project House)](http://ph.com.tr "HAVAS (Project House)") *Istanbul, 2015-12 -- 2017-02*
 Developed 10+ web projects 3+ full-stack nodejs project 2 php based project. (Sharepoint, C#, PHP, NodeJS, HTML5/JS, sass, less, pug, grunt, gulp)
 
 ### **Software Developer** [Self Employed](https://mikailcolak.com "Self Employed") *Istanbul, 2015-01 -- 2015-11*
