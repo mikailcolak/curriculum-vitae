@@ -21,7 +21,7 @@ compile() {
     chromePath chrome
 
     # Update the date
-    sed -i -r "s@date:.+@date: $(date -u +'%d/%m/%YT%H:%M:%SZ')@g" $SRC
+    sed -i -r "s@date:.+@date: $(date -u +'%Y-%m-%dT%H:%M:%SZ')@g" $SRC
 
     pandoc\
         -s\
