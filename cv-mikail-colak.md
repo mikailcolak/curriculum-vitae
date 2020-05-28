@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae - Mikail COLAK
 author: Mikail COLAK
-date: 25-05-2020
+date: 2020-05-28T06:19:42Z
 ...
 
 # Mikail COLAK
