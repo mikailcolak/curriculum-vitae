@@ -12,7 +12,7 @@ compile() {
     SRC=$1
     DST=$2
     UNAME=$(uname)
-    
+
     cwd=$(pwd)
     if [[ "$UNAME" == CYGWIN* || "$UNAME" == MINGW* ]] ; then
         cwd=$(pwd -W)
@@ -20,12 +20,15 @@ compile() {
 
     chromePath chrome
 
+    # Update the date
+    sed -i -r "s@date:.+@date: $(date -u +'%d/%m/%Y %H:%M (UTC)')@g" $SRC
+
     pandoc\
         -s\
         --template template.html\
         -s $SRC\
         -o $DST.html
-    
+
     "${chrome}"\
         --incognito\
         --headless\
