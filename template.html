@@ -113,6 +113,13 @@
             font-family: sans-serif;
         }
 
+        time.last-updated {
+            position: absolute;
+            top: 10.2mm;
+            right: 10.2mm;
+            font-size: x-small;
+        }
+
         @media print {
             @page {
                 margin: 0;
@@ -144,6 +151,9 @@
         $for(include-after)$
         $include-after$
         $endfor$
+        $if(date)$
+            <time class="last-updated" datetime="$date$">Last updated: $date$</time>
+        $endif$
     </div>
 </body>
 
