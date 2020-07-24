@@ -144,6 +144,9 @@
 
 <body>
     <div id="container">
+        $if(date)$
+            <time class="last-updated" datetime="$date$">Last updated: $date$</time>
+        $endif$
         $for(include-before)$
         $include-before$
         $endfor$
@@ -151,9 +154,6 @@
         $for(include-after)$
         $include-after$
         $endfor$
-        $if(date)$
-            <time class="last-updated" datetime="$date$">Last updated: $date$</time>
-        $endif$
     </div>
 </body>
 
