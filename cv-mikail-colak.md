@@ -30,6 +30,15 @@ Developed small to large softwares as like Corporate Web Sites, Customer Loyalty
 
 ---
 
+## Languages
+| Language | Speak | Read | Write |
+|----------|-------|------|-------|
+| Turkish  |  1.00 | 1.00 |  1.00 |
+| English  |  0.72 | 0.85 |  0.75 |
+| German   |  0.14 | 0.17 |  0.11 |
+
+---
+
 ## Education
 ### **Self-Taught** [Various Resources](https://www.google.com "Google") *Everywhere, 1990-05 -- Present*
 “Intellectual growth should commence at birth and cease only at death.”
