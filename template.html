@@ -67,6 +67,7 @@
         h1,
         h2,
         h3,
+        table,
         p {
             margin: 12pt 12pt 6pt 12pt;
             font-weight: normal;
@@ -127,6 +128,23 @@
             font-size: x-small;
             color: #ca0000;
         }
+
+        table {
+            border: 1px solid #ccc;
+            border-collapse: collapse;
+        }
+
+        table th {
+            background: #eee;
+        }
+
+        table th,
+        table td {
+            border-right: 1px solid #ccc;
+            border-bottom: 1px solid #ccc;
+            padding: .3rem .5rem;
+        }
+
         @media print {
             @page {
                 margin: 0;
