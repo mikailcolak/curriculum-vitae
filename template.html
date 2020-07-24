@@ -120,6 +120,13 @@
             font-size: x-small;
         }
 
+        a.document-source {
+            position: absolute;
+            top: 14mm;
+            right: 10.2mm;
+            font-size: x-small;
+            color: #ca0000;
+        }
         @media print {
             @page {
                 margin: 0;
@@ -147,6 +154,8 @@
         $if(date)$
             <time class="last-updated" datetime="$date$">Last updated: $date$</time>
         $endif$
+        <a class="document-source" href="https://github.com/mikailcolak/curriculum-vitae" target="_blank">https://github.com/mikailcolak/curriculum-vitae</a>
+
         $for(include-before)$
         $include-before$
         $endfor$
