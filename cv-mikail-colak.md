@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae - Mikail COLAK
 author: Mikail COLAK
-date: 2020-07-15T09:47:56Z
+date: 2020-07-28T16:32:51Z
 ...
 
 # Mikail COLAK
@@ -41,8 +41,6 @@ Developed small to large softwares as like Corporate Web Sites, Customer Loyalty
 
 ## Education
 ### **Self-Taught** [Various Resources](https://www.google.com "Google") *Everywhere, 1990-05 -- Present*
-“Intellectual growth should commence at birth and cease only at death.”
-― Albert Einstein
 
 ### **Web Design And Coding** [Anadolu University](https://www.anadolu.edu.tr/en "Anadolu University") *Istanbul, 2016-09 -- 2019-07*
 Associate's Degree
