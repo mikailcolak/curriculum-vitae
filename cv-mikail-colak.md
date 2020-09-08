@@ -1,11 +1,13 @@
 ---
 title: Curriculum Vitae - Mikail COLAK
 author: Mikail COLAK
-date: 2020-07-28T16:32:51Z
+date: 2020-09-08T14:24:59Z
 ...
 
 # Mikail COLAK
-Istanbul, TR / +90 (532) 426 02 89 / [mikailcolak@gmail.com](mailto:mikailcolak@gmail.com)
+Köln, Rösrath, DE / +49 (178) 601 10 96 / [mikailcolak@gmail.com](mailto:mikailcolak@gmail.com)
+
+Istanbul, TR / +90 (532) 426 02 89
 
 ---
 
