@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae - Mikail COLAK
 author: Mikail COLAK
-date: 2020-09-08T14:24:59Z
+date: 2020-10-30T20:09:26Z
 ...
 
 # Mikail COLAK
@@ -26,7 +26,7 @@ Developed small to large softwares as like Corporate Web Sites, Customer Loyalty
 ### **Internship Game Developer** [Infosfer](https://tr.linkedin.com/company/infosfer-oyun-teknolojileri-ltd- "Infosfer") *Istanbul, 2013-12 -- 2014-06*
 Learned and contributed game development with Cocos2d-X/C++ and deploy mobile games to Android and IOS. Successfully completed development challenges. (C++, Cocos2d-X, ActionScript3, Starling)
 
-### **Web Developer** [EnNet](#https://ennet.com.tr "EnNet") *Istanbul, 2015-12 -- 2017-02*
+### **Web Developer** [EnNet](#https://ennet.com.tr "EnNet") *Istanbul, 2011-07 -- 2013-06*
 Developed small to large softwares as like Corporate Web Sites, Customer Loyalty Systems. (PHP, MySql, HTML5/JS, Python, Wordpress, Drupal, Joomla)
 
 
