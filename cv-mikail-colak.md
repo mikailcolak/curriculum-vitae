@@ -1,7 +1,7 @@
 ---
-title: Curriculum Vitae - Mikail COLAK
+title: Lebenslauf - Mikail COLAK
 author: Mikail COLAK
-date: 2020-09-08T14:24:59Z
+date: 2020-10-30T20:05:49Z
 ...
 
 # Mikail COLAK
@@ -11,38 +11,41 @@ Istanbul, TR / +90 (532) 426 02 89
 
 ---
 
-### **Software Developer** [Lidyum Information Technologies](http://lidyum.com.tr "Lidyum") *Istanbul, 2018-06 -- Present*
-Implemented variety of network management system modules. Developed for main contractor [NEC](https://www.nec.com/en/global/prod/nw/pasolink/products/unms.html "UNMS") and the softwares using by many Telecom companies around the world. (C#, SNMP, Java, HTML5/JS, NodeJS, React, WPF, .NET Core, PostgreSql, git, Jira, Jenkins)
+### **Software-Entwickler** [Lidyum Information Technologies](http://lidyum.com.tr "Lidyum") *Istanbul, 2018-06 -- Gegenwärtig*
+Entwicklung einer Vielzahl von Modulen für Netzwerkmanagementsysteme. Hauptauftragnehmer [NEC](https://www.nec.com/en/global/prod/nw/pasolink/products/unms.html "UNMS"). Programmierung von Software, die von vielen Telekommunikationsunternehmen auf der ganzen Welt verwendet wird. (C#, SNMP, Java, HTML5/JS, NodeJS, React, WPF, .NET Core, PostgreSql, git, Jira, Jenkins)
 
-### **Software Developer** [MKM Information Technologies](http://mkm.com.tr/Home "MKM") *Istanbul, 2017-02 -- 2018-05*
-Implemented variety of network management system modules. Developed for main contractor [NEC](https://www.nec.com/en/global/prod/nw/pasolink/products/unms.html "UNMS") and the softwares using by many Telecom companies around the world. (C#, C/C++, SNMP, Java, HTML5/JS, NodeJS, React, WPF, MsSQL, MongoDB, .NET Framework, TFS, git, Jira)
+### **Software-Entwickler** [MKM Information Technologies](http://mkm.com.tr/Home "MKM") *Istanbul, 2017-02 -- 2018-05*
+Entwicklung einer Vielzahl von Modulen für Netzwerkmanagementsysteme. Hauptauftragnehmer [NEC](https://www.nec.com/en/global/prod/nw/pasolink/products/unms.html "UNMS"). Programmierung von Software, die von vielen Telekommunikationsunternehmen auf der ganzen Welt verwendet wird. (C#, C/C++, SNMP, Java, HTML5/JS, NodeJS, React, WPF, MsSQL, MongoDB, .NET Framework, TFS, git, Jira)
 
-### **Web Developer** [HAVAS (Project House)](http://ph.com.tr "HAVAS (Project House)") *Istanbul, 2015-12 -- 2017-02*
-Developed 10+ web projects 3+ full-stack nodejs project 2 php based project. (Sharepoint, C#, PHP, NodeJS, HTML5/JS, sass, less, pug, grunt, gulp)
+### **Web-Entwickler** [HAVAS (Project House)](http://ph.com.tr "HAVAS (Project House)") *Istanbul, 2015-12 -- 2017-02*
+Entwicklung von 10+ Web-Projekten, 3+ Full-Stack-Nodejs-Projekten, 2 php-basierten Projekten. (Sharepoint, C#, PHP, NodeJS, HTML5/JS, sass, less, pug, grunt, gulp)
 
-### **Software Developer** [Self Employed](https://mikailcolak.com "Self Employed") *Istanbul, 2015-01 -- 2015-11*
-Developed small to large softwares as like Corporate Web Sites, Customer Loyalty Systems. (PHP, MySql, HTML5/JS, Python, Wordpress, Drupal, Joomla)
+### **Software-Entwickler** [Selbständig](https://mikailcolak.com "Selbständig") *Istanbul, 2015-01 -- 2015-11*
+Entwicklung unterschiedlicher Software wie Unternehmenswebsites und Kundenbindungssysteme. (PHP, MySql, HTML5/JS, Python, Wordpress, Drupal, Joomla)
 
-### **Internship Game Developer** [Infosfer](https://tr.linkedin.com/company/infosfer-oyun-teknolojileri-ltd- "Infosfer") *Istanbul, 2013-12 -- 2014-06*
-Learned and contributed game development with Cocos2d-X/C++ and deploy mobile games to Android and IOS. Successfully completed development challenges. (C++, Cocos2d-X, ActionScript3, Starling)
+### **Praktikum als Spieleentwickler** [Infosfer](https://tr.linkedin.com/company/infosfer-oyun-teknolojileri-ltd- "Infosfer") *Istanbul, 2013-12 -- 2014-06*
+Entwicklung von Spielen mit Cocos2d-X/C++ und mobilen Spielen für Android und IOS. Erfolgreicher Abschluss der Entwicklungsherausforderungen. (C++, Cocos2d-X, ActionScript3, Starling)
 
-### **Web Developer** [EnNet](#https://ennet.com.tr "EnNet") *Istanbul, 2015-12 -- 2017-02*
-Developed small to large softwares as like Corporate Web Sites, Customer Loyalty Systems. (PHP, MySql, HTML5/JS, Python, Wordpress, Drupal, Joomla)
+### **Web-Entwickler** [EnNet](#https://ennet.com.tr "EnNet") *Istanbul, 2011-07 -- 2013-06*
+Entwicklung unterschiedlicher Software wie Unternehmenswebsites und Kundenbindungssysteme. (PHP, MySql, HTML5/JS, Python, Wordpress, Drupal, Joomla)
 
-
----
-
-## Languages
-| Language | Speak | Read | Write |
-|----------|-------|------|-------|
-| Turkish  |  1.00 | 1.00 |  1.00 |
-| English  |  0.72 | 0.85 |  0.75 |
-| German   |  0.14 | 0.17 |  0.11 |
 
 ---
 
-## Education
-### **Self-Taught** [Various Resources](https://www.google.com "Google") *Everywhere, 1990-05 -- Present*
+## Sprachen
+| Sprache  | Sprechen | Lesen | Schreiben |
+|----------|----------|-------|-----------|
+| Türkisch |     1,00 |  1,00 |      1,00 |
+| Englisch |     0,72 |  0,85 |      0,75 |
+| Deutsch  |     0,14 |  0,17 |      0,11 |
 
-### **Web Design And Coding** [Anadolu University](https://www.anadolu.edu.tr/en "Anadolu University") *Istanbul, 2016-09 -- 2019-07*
-Associate's Degree
+---
+
+## Bildung
+### **Schulabschluss mit Hochschulzulassung** *Istanbul, 2013-01*
+(Schulabschluss verspätet aufgrund von verpflichtendem Militärdienst)
+
+### **Selbstorganisiertes Lernen** [Verschiedene Ressourcen](https://www.google.com "Google") *Überall, 1990-05 -- Gegenwärtig*
+
+### **Webdesign und Kodierung** [Universität Anadolu](https://www.anadolu.edu.tr/en "Universität Anadolu") *Istanbul, 2016-09 -- 2019-07*
+Associate-Abschluss
